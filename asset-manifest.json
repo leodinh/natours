@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/natours/static/css/main.9cba8f6c.chunk.css",
+    "main.js": "/natours/static/js/main.ba2c3c2b.chunk.js",
+    "main.js.map": "/natours/static/js/main.ba2c3c2b.chunk.js.map",
+    "runtime-main.js": "/natours/static/js/runtime-main.3dd71dad.js",
+    "runtime-main.js.map": "/natours/static/js/runtime-main.3dd71dad.js.map",
+    "static/css/2.5bc09813.chunk.css": "/natours/static/css/2.5bc09813.chunk.css",
+    "static/js/2.f9e0c363.chunk.js": "/natours/static/js/2.f9e0c363.chunk.js",
+    "static/js/2.f9e0c363.chunk.js.map": "/natours/static/js/2.f9e0c363.chunk.js.map",
+    "index.html": "/natours/index.html",
+    "precache-manifest.41d8dbf0b8afea0137f871ab9ac818ad.js": "/natours/precache-manifest.41d8dbf0b8afea0137f871ab9ac818ad.js",
+    "service-worker.js": "/natours/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "/natours/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.9cba8f6c.chunk.css.map": "/natours/static/css/main.9cba8f6c.chunk.css.map",
+    "static/js/2.f9e0c363.chunk.js.LICENSE": "/natours/static/js/2.f9e0c363.chunk.js.LICENSE",
+    "static/media/Toolbar.module.scss": "/natours/static/media/hero.6e09f410.jpg",
+    "static/media/logo-green-1x.png": "/natours/static/media/logo-green-1x.4c42c11f.png",
+    "static/media/logo-green-2x.png": "/natours/static/media/logo-green-2x.3365abba.png",
+    "static/media/logo-green-small-2x.png": "/natours/static/media/logo-green-small-2x.888043d5.png",
+    "static/media/logo-white.png": "/natours/static/media/logo-white.40d4ef82.png",
+    "static/media/nat-1-large.jpg": "/natours/static/media/nat-1-large.7fdf2a88.jpg",
+    "static/media/nat-1.jpg": "/natours/static/media/nat-1.d6c15bf0.jpg",
+    "static/media/Booking.module.scss": "/natours/static/media/nat-10.2797561f.jpg",
+    "static/media/nat-2-large.jpg": "/natours/static/media/nat-2-large.7a25f199.jpg",
+    "static/media/nat-2.jpg": "/natours/static/media/nat-2.4d378368.jpg",
+    "static/media/nat-3-large.jpg": "/natours/static/media/nat-3-large.417d3d74.jpg",
+    "static/media/nat-3.jpg": "/natours/static/media/nat-3.cc2b0543.jpg",
+    "static/media/Features.module.scss": "/natours/static/media/nat-4.61bbf12a.jpg",
+    "static/media/Tour.module.scss": "/natours/static/media/nat-7.5f846d16.jpg",
+    "static/media/nat-8.jpg": "/natours/static/media/nat-8.14efd82b.jpg",
+    "static/media/nat-9.jpg": "/natours/static/media/nat-9.b525a99b.jpg",
+    "static/media/video.webm": "/natours/static/media/video.f556a2c3.webm",
+    "static/media/video.mp4": "/natours/static/media/video.ffcd876c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd71dad.js",
+    "static/css/2.5bc09813.chunk.css",
+    "static/js/2.f9e0c363.chunk.js",
+    "static/css/main.9cba8f6c.chunk.css",
+    "static/js/main.ba2c3c2b.chunk.js"
+  ]
+}
