@@ -1,5 +1,7 @@
 import React from "react";
 import styles from "./Booking.module.scss";
+import ScrollAnimation from "react-animate-on-scroll";
+import "animate.css/animate.min.css";
 function Booking() {
   return (
     <div className={styles["book"]}>
@@ -7,11 +9,13 @@ function Booking() {
         <div className={styles["book-box"]}>
           <div className={styles["book-box__form"]}>
             <form className={styles["form"]}>
-              <div className={styles["u-margin-bottom-big"]}>
-                <h2 className={styles["heading-secondary"]}>
-                  Start booking now
-                </h2>
-              </div>
+              <ScrollAnimation animateIn="heartBeat">
+                <div className={styles["u-margin-bottom-big"]}>
+                  <h2 className={styles["heading-secondary"]}>
+                    Start booking now
+                  </h2>
+                </div>
+              </ScrollAnimation>
               <div className={styles["form__group"]}>
                 <input
                   type="text"

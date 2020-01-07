@@ -1,4 +1,5 @@
 @import "./assets/sass/abstracts/_mixins.scss";
+@import "./assets/sass/abstracts/variables";
 
 *,
 *::after,
@@ -27,4 +28,9 @@ html {
         font-size: 75%;
     }
 
+}
+
+::selection {
+    background-color: $color-primary;
+    color: $color-white;
 }

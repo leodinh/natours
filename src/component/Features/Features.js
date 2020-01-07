@@ -5,6 +5,8 @@ import { basic_compass } from "react-icons-kit/linea/basic_compass";
 import { basic_map } from "react-icons-kit/linea/basic_map";
 import { basic_heart } from "react-icons-kit/linea/basic_heart";
 import Feature from "./Feature/Feature";
+import ScrollAnimation from "react-animate-on-scroll";
+import "animate.css/animate.min.css";
 function Features() {
   const featuresList = useState([
     {
@@ -41,11 +43,13 @@ function Features() {
       <div className={styles.row}>
         {featuresList.map(feature => (
           <div className={styles["col-1-of-4"]} key={feature.id}>
-            <Feature
-              icon={feature.icon}
-              title={feature.title}
-              content={feature.content}
-            />
+            <ScrollAnimation animateIn="lightSpeedIn">
+              <Feature
+                icon={feature.icon}
+                title={feature.title}
+                content={feature.content}
+              />
+            </ScrollAnimation>
           </div>
         ))}
       </div>
